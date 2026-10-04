@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Word Counter</string>
+    <string name="app_title">Word Counter</string>
+    <string name="app_subtitle">Count sentences, words, punctuation marks, and numbers</string>
+    
+    <string name="enter_text_hint">Enter or paste your text here…</string>
+    
+    <string name="btn_count">Count</string>
+    <string name="btn_sample">Sample</string>
+    <string name="btn_clear">Clear</string>
+    <string name="btn_clear_history">Clear History</string>
+    
+    <string name="results_heading">Results</string>
+    <string name="metric_sentences">Sentences</string>
+    <string name="metric_words">Words</string>
+    <string name="metric_punctuation">Punctuation</string>
+    <string name="metric_numbers">Numbers</string>
+    <string name="initial_count">0</string>
+    
+    <string name="history_heading">Calculation History</string>
+    <string name="empty_history_text">No calculations yet. Enter text and tap Count.</string>
+    <string name="history_item_metrics">Sentences: %1$d  •  Words: %2$d  •  Punctuation: %3$d  •  Numbers: %4$d</string>
+    
+    <string name="error_empty_input">Please enter some text before counting!</string>
+    <string name="toast_sample_added">Sample text inserted.</string>
+    <string name="toast_cleared">Input cleared.</string>
+    <string name="toast_history_cleared">History cleared.</string>
+</resources>
