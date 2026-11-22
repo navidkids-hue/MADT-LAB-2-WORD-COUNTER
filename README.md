@@ -1,4 +1,4 @@
-# Project Testing Summary — MADT Lab 3
+# Project Testing Summary — MADT Lab 2
 
 ## Introduction
 
